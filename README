@@ -1,0 +1,11 @@
+Fox Operating System
+
+Author: 
+	Chouri Soulaymen
+
+About:
+	This is an experimental operating system that I'm writing for fun/learning purposes.
+
+Requirement:
+	Inorder to compile fox os you will need nasm, gcc, ld, build_essential, qemu and grub.
+	Once all require tools are gathered, check out build.sh for compiling instructions.
